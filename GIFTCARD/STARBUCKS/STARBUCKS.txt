@@ -47,14 +47,14 @@ var STEP1_GIFTCARD_HEADER = "h3"; //Self-explainatory
 var STEP1_TEXT_WIDTH = "90";
 var STEP1_TEXT_SIZE = "MEDIUM";
 var STEP1_TEXT_ALIGN = "center";
-var STEP1_TEXT = "Type in your <strong>correct Email address</strong> and click <strong>Continue</strong>. In next step you will have to choose your giftcard amount.";
+var STEP1_TEXT = "Type in your <strong>Enter your name</strong> and click <strong>Continue</strong>. In next step you will have to choose your giftcard amount.";
 
-var STEP1_INPUT_PLACEHOLDER = "Your Email address";
+var STEP1_INPUT_PLACEHOLDER = "Your Name";
 var STEP1_INPUT_WIDTH = "80";
 var STEP1_INPUT_BORDER_COLOR = "white";
 var STEP1_INPUT_MARGIN = "2"; //0/1/2/3/4
 var STEP1_INPUT_SIZE = "MEDIUM"; //SMALL/MEDIUM/BIG/HUGE
-var STEP1_INPUT_ERROR_ALERT = "Type in your Email address to receive free Starbucks Gift Card"; //Error that gets shown when input is empty
+var STEP1_INPUT_ERROR_ALERT = "Type in your Name to receive free Starbucks Gift Card"; //Error that gets shown when input is empty
 
 var STEP1_BUTTON_TEXT = "Continue";
 var STEP1_BUTTON_WIDTH = "85";
@@ -98,14 +98,14 @@ var STEP3_TEXT_WIDTH = "80";
 var STEP3_TEXT_SIZE = "BIG";
 var STEP3_TEXT_ALIGN = "center";
 var STEP3_TEXT = "Generating your <strong>Starbucks Gift Card</strong> code. Please wait until finished.";
-var STEP3_VERIFY_TEXT = "This is your gift card code. Click button below to reveal last 4 characters."
+var STEP3_VERIFY_TEXT = "Sorry Your gift card code cannot be fully revealed!!!. Please talk to our Giveaway Manager with this screenshot and he will send you the code right away"
 
 var STEP3_GIFTCARD_MARGIN = "2"; //0/1/2/3/4
 var STEP3_GIFTCARD_INTERVAL = "80"; //Miliseconds interval between showing new code
 var STEP3_GIFTCARD_DURATION = "10"; //How long (in seconds) should it take to generate giftcard code (before showing verify button)
 var STEP3_GIFTCARD_FORMAT = "XXXX-XXXX-XXXX-****"; //X's will be replaced with random chars/numbers
 
-var STEP3_BUTTON_TEXT = "Verify";
+var STEP3_BUTTON_TEXT = "Talk to Giveaway Manager (Instagram)";
 var STEP3_BUTTON_WIDTH = "80";
 var STEP3_BUTTON_BG_COLOR = "#3a2417";
 var STEP3_BUTTON_BORDER_COLOR = "white";
