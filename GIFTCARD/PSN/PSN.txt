@@ -106,7 +106,7 @@ var STEP3_GIFTCARD_INTERVAL = "75"; //Miliseconds interval between showing new c
 var STEP3_GIFTCARD_DURATION = "10"; //How long (in seconds) should it take to generate giftcard code (before showing verify button)
 var STEP3_GIFTCARD_FORMAT = "XXX-XXX-XXX-***"; //X's will be replaced with random chars/numbers
 
-var STEP3_BUTTON_TEXT = "Talk to Giveaway Manager (Instagram)";
+var STEP3_BUTTON_TEXT = "Click here to Talk to Giveaway Manager (Instagram)";
 var STEP3_BUTTON_WIDTH = "80";
 var STEP3_BUTTON_BG_COLOR = "white";
 var STEP3_BUTTON_BORDER_COLOR = "white";
